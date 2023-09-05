@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @r0-0ky
-- 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning make websites
-- 💞️ I’m looking to collaborate on ¯\_(ツ)_/¯
-- 📫 How to reach me: maxhard243@gmail.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00F73B&center=true&width=435&height=60&lines=Hi%2C+I'm+r0-0ky)](https://git.io/typing-svg)
 
 <!---
 Zismma/Zismma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
