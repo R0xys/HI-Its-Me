@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zismma
+- 👋 Hi, I’m @r0-0ky
 - 👀 I’m interested in frontend development 
 - 🌱 I’m currently learning make websites
 - 💞️ I’m looking to collaborate on ¯\_(ツ)_/¯
